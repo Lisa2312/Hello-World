@@ -1,2 +1,4 @@
 # Hello-World
-test
+hello humans!
+
+i like to programm games, dance and programm other things 
